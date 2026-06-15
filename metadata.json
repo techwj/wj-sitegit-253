@@ -1,0 +1,64 @@
+{
+  "siteId": "forward-neck-posture-fix",
+  "generatedAt": "2026-06-05T14:36:10.133271",
+  "categories": [
+    "beginner-forward-neck-posture-fix",
+    "advanced-forward-neck-posture-fix",
+    "tips-forward-neck-posture-fix",
+    "history-forward-neck-posture-fix",
+    "trending-forward-neck-posture-fix",
+    "tutorials-forward-neck-posture-fix"
+  ],
+  "categoryData": [
+    {
+      "category_slug": "beginner-forward-neck-posture-fix",
+      "category_name": "Beginner Forward Neck Posture Fix"
+    },
+    {
+      "category_slug": "advanced-forward-neck-posture-fix",
+      "category_name": "Advanced Forward Neck Posture Fix"
+    },
+    {
+      "category_slug": "tips-forward-neck-posture-fix",
+      "category_name": "Forward Neck Posture Fix Tips"
+    },
+    {
+      "category_slug": "history-forward-neck-posture-fix",
+      "category_name": "Forward Neck Posture Fix History"
+    },
+    {
+      "category_slug": "trending-forward-neck-posture-fix",
+      "category_name": "Trending Forward Neck Posture Fix"
+    },
+    {
+      "category_slug": "tutorials-forward-neck-posture-fix",
+      "category_name": "Forward Neck Posture Fix Tutorials"
+    }
+  ],
+  "articleCount": 108,
+  "design": {
+    "site_id": "forward-neck-posture-fix",
+    "color_scheme": {
+      "name": "Warm Orange",
+      "primary": "#c2410c",
+      "secondary": "#f97316",
+      "accent": "#fdba74",
+      "background": "#fff7ed",
+      "text": "#7c2d12",
+      "light": "#ffedd5"
+    },
+    "font": {
+      "family": "'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif",
+      "heading": "'Segoe UI'",
+      "body": "Roboto"
+    },
+    "layout": "centered-narrow",
+    "modules": [
+      "popular-tags",
+      "recent-comments",
+      "featured-section"
+    ],
+    "site_title": "Forward Neck Posture Fix Central",
+    "articles_per_row": 3
+  }
+}
